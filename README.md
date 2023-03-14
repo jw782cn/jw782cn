@@ -14,6 +14,7 @@
   - **Aesthetic enthusiast🥳**: Movie Enthusiast (Watched 700+ movies&TV series), Vlogger (I have 33k followers on bilibili!), Director (I directed some music videos and short films!), Design, Psychology, Newsletter, Podcast...
     - Favorites: La La Land, Arrival, Interstellar, Manchester by the sea; Dark, Mind Hunter;The Legend of Zelda, Outer Wild
     - Expanding Areas: Universe, Serious Literature, Classic Movies, Contempary Arts; Prompt Engineering, AI Editing
+- **Strong capabilities to use learn new tools and technologies to develop really quickly!**
 
 *Lists below are majoy projects I've done! (✨ means important projects)*
 
