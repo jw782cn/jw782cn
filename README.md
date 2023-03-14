@@ -2,6 +2,8 @@
 
 [![Cornell Email](https://img.shields.io/badge/Email-cn257%40cornell.edu-red)](mailto:cn257@cornell.edu)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chenran%20Ning-blue?logo=linkedin)](http://www.linkedin.com/in/chenran-ning)[![Bilibili](https://img.shields.io/badge/Bilibili-11821775-red?logo=bilibili)](https://space.bilibili.com/11821775)[![YouTube](https://img.shields.io/badge/YouTube-Chenran%20Ning-red?logo=youtube)](https://www.youtube.com/channel/UCI12STQcqs5fsC2HxekUB4g)
 
+**Living boldly for an exciting life 🎢, Always be curious about all things 🔍, Stay eager and full of new ideas 💡!**
+
 - 😏 **Boring but Important Identities**: 
   - 🤖 Current Master Student at Cornell Tech, major in Connective Media; CS Bachelor degree at Fudan 
   - 🎃 Interned in ByteDance as Software Engineer in Machine Learning System
@@ -12,7 +14,6 @@
   - **Aesthetic enthusiast🥳**: Movie Enthusiast (Watched 700+ movies&TV series), Vlogger (I have 33k followers on bilibili!), Director (I directed some music videos!), Design, Psychology, Newsletter, Podcast...
     - Favorites: La La Land, Arrival, Interstellar, Manchester by the sea; Dark, Mind Hunter;The Legend of Zelda, Outer Wild
     - Expanding Areas: Universe, Serious Literature, Classic Movies, Contempary Arts; Prompt Engineering, AI Editing
-- **Living boldly for an exciting life 🎢, Always be curious about all things 🔍, Stay eager and full of new ideas 💡!** 
 
 *Lists below are majoy projects I've done! (✨ means important projects)*
 
