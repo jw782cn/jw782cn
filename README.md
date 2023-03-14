@@ -16,7 +16,7 @@
 
 *Lists below are majoy projects I've done! (✨ means important projects)*
 
-| Tech Skills             | Projects                                                     | Languages/Tools/Methods                                      | Link                                                         |
+| Skills                  | Projects                                                     | Languages/Tools/Methods                                      | Link                                                         |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Machine Learning System | ✨ByteDance - Software Engineer Intern - Machine Learning System | Bash, Golang, Python; Kubernetes, Docker, Django, React      | [CV](https://drive.google.com/file/d/1SUYOn6wm2ZjuvwcZZP_Ou62qpJIAVlxp/view?usp=sharing) |
 | Machine Learning        | - ✨MiniTorch, DIY mini PyTorch for machine learning<br />- MobileNetV3 for Image Classification<br />- Video Object Segmentation | Python, PyTorch                                              | - [GitHub](https://github.com/Cornell-Tech-ML/minitorch-chenran)<br />- [Paper](https://ieeexplore.ieee.org/abstract/document/9389905)<br />- [CV](https://drive.google.com/file/d/1RFAJK68th4SgblZqZ6aNLcRlSjOom1u7/view?usp=sharing) |
