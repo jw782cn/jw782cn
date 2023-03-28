@@ -7,7 +7,7 @@
 - 😏 **Boring but Important Identities**: 
   - 🤖 Current Master Student at Cornell Tech, major in Connective Media; CS Bachelor degree at Fudan 
   - 🎃 Interned in ByteDance as Software Engineer in Machine Learning System
-  - 🤘 A boy who loves boy, I'm grad I recognized my true self
+  - 🤘 A boy who loves boy, I'm glad I recognized my true self
 - 🔭 **My areas of interest**: 
   - **Anything related to AI🐣**: Machine Learning, Distributed System, CV, NLP, ChatGPT...
   - **Anything about Coding✍️**: Tool Development, Full Stack, App, New & Cool Stuff...
